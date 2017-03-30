@@ -7,11 +7,7 @@ immersive visualisation systems for science, research, and art. The BoF will
 bring together scientific visualisation practitioners from across the globe in
 order to share their ideas and work in an informal atmosphere.
 
-### Time
-
-TBD
-
-### Location
+### Time and Location
 
 TBD
 
@@ -22,6 +18,7 @@ TBD
 ### Organizers
 
 **Tomasz Bednarz** (CSIRO Data61, Australia)
+
 **Wesley Griffin** (NIST, USA)
 
 For more information, please e-mail:
