@@ -1,8 +1,4 @@
----
-title: Immersive Visualisation for Science, Research, and Art.
-layout: post
----
-
+# Immersive Visualisation for Science, Research, and Art.
 ## SIGGRAPH Birds of a Feather Session
 
 We cordially invite you to participate in the Birds of a Feather session at
