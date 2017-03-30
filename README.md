@@ -1,5 +1,3 @@
-# Immersive Visualisation for Science, Research, and Art.
-## SIGGRAPH Birds of a Feather Session
 
 We cordially invite you to participate in the Birds of a Feather session at
 SIGGRAPH 2017 that focuses on immersive analytics, visual analytics and
