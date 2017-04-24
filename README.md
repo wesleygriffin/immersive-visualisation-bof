@@ -7,7 +7,9 @@ order to share their ideas and work in an informal atmosphere.
 
 ### Time and Location
 
-TBD
+Tuesday, 1 August, 2017<br>
+09:00 - 11:00<br>
+ACM SIGGRAPH Theater
 
 ### Schedule
 
@@ -19,7 +21,7 @@ TBD
 
 **Wesley Griffin** (NIST, USA)
 
-For more information, please e-mail:
-[tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org) or
+For more information, please e-mail:<br>
+[tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org) or<br>
 [wesley.griffin@nist.gov](mailto:wesley.griffin@nist.gov).
 
