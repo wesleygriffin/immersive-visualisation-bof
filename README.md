@@ -17,7 +17,7 @@ TBD
 
 ### Organizers
 
-**Tomasz Bednarz** (CSIRO Data61, Australia)
+**Tomasz Bednarz** (CSIRO/Data61 and UNSW Art & Design, Australia)
 
 **Wesley Griffin** (NIST, USA)
 
