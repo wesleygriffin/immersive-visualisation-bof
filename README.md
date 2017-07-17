@@ -11,9 +11,15 @@ Tuesday, 1 August, 2017<br>
 09:00 - 11:00<br>
 ACM SIGGRAPH Theater
 
-### Schedule
+### Tentative Schedule
 
-TBD
+**Welcome and Introduction** (Tomasz, Wesley)<br>
+**EPICentre at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
+**Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
+**Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
+**TBA**, Elizabeth Baron<br>
+**TBA**, Bill Sherman, Indiana Universtiy<br>
+**Q&A, Live Demos**
 
 ### Organizers
 
