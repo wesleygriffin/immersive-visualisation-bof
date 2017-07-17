@@ -14,7 +14,7 @@ ACM SIGGRAPH Theater
 ### Tentative Schedule
 
 **Welcome and Introduction** (Tomasz, Wesley)<br>
-**EPICentre at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
+**Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
 **Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
 **TBA**, Elizabeth Baron<br>
