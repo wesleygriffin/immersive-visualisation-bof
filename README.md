@@ -17,7 +17,7 @@ ACM SIGGRAPH Theater
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
 **Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
-**Watching Cement Cure: Using a CAVE to advance industrial cement use**, Wesley Griffin, NIST<br>
+**Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **TBA**, Elizabeth Baron<br>
 **TBA**, Bill Sherman, Indiana Universtiy<br>
 **Q&A, Live Demos, Panel**
