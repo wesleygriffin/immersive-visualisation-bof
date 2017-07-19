@@ -14,12 +14,13 @@ ACM SIGGRAPH Theater
 ### Tentative Schedule
 
 **Welcome and Introduction** (Tomasz, Wesley)<br>
+**Experience on-demand: touring immersive shows** (Michela Ledwidge, Studio MOD)
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
 **Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
 **TBA**, Elizabeth Baron<br>
 **TBA**, Bill Sherman, Indiana Universtiy<br>
-**Q&A, Live Demos**
+**Q&A, Live Demos, Panel**
 
 ### Organizers
 
