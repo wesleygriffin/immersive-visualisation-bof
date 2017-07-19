@@ -1,4 +1,3 @@
-
 We cordially invite you to participate in the Birds of a Feather session at
 SIGGRAPH 2017 that focuses on immersive analytics, visual analytics and
 immersive visualisation systems for science, research, and art. The BoF will
@@ -14,7 +13,7 @@ ACM SIGGRAPH Theater
 ### Tentative Schedule
 
 **Welcome and Introduction** (Tomasz, Wesley)<br>
-**Experience on-demand: touring immersive shows** (Michela Ledwidge, Studio MOD)
+**Experience on-demand: touring immersive shows** (Michela Ledwidge, Studio MOD)<br>
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
 **Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
