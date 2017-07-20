@@ -12,7 +12,7 @@ ACM SIGGRAPH Theater
 
 ### Tentative Schedule
 
-**Welcome and Introduction** (Tomasz, Wesley)<br>
+**Welcome and Introduction** (Wesley, Tomasz)<br>
 **Experience on-demand: touring immersive shows** (Michela Ledwidge, Studio MOD)<br>
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
 **Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
