@@ -20,6 +20,7 @@ ACM SIGGRAPH Theater
 **Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **TBA**, Elizabeth Baron<br>
 **Open-Source Tools for Immersive Visualization**, Bill Sherman, Indiana Universtiy<br>
+**Leveraging Mobile and Web Technologies for Empathic Computing**, Juan Miguel de Joya<br>
 **Q&A, Live Demos, Panel**
 
 ### Organizers
