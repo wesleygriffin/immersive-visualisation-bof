@@ -19,7 +19,7 @@ ACM SIGGRAPH Theater
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
 **Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **TBA**, Elizabeth Baron<br>
-**TBA**, Bill Sherman, Indiana Universtiy<br>
+**Open-Source Tools for Immersive Visualization**, Bill Sherman, Indiana Universtiy<br>
 **Q&A, Live Demos, Panel**
 
 ### Organizers
