@@ -14,12 +14,12 @@ ACM SIGGRAPH Theater
 
 **Welcome and Introduction** (Wesley, Tomasz)<br>
 **Experience on-demand: touring immersive shows** (Michela Ledwidge, Studio MOD)<br>
-**Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
-**Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, Sandy Ressler, NIST<br>
-**Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
+**Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, (Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia)<br>
+**Pragmatic WebVR... Getting Real with Virtual Reality on the Web**, (Sandy Ressler, NIST)<br>
+**Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, (James Money, Idaho National Laboratory)<br>
 **TBA**, Elizabeth Baron<br>
-**Open-Source Tools for Immersive Visualization**, Bill Sherman, Indiana Universtiy<br>
-**Leveraging Mobile and Web Technologies for Empathic Computing**, Juan Miguel de Joya<br>
+**Open-Source Tools for Immersive Visualization**, Bill Sherman, Indiana University<br>
+**Leveraging Mobile and Web Technologies for Empathic Computing**, Juan Miguel de Joya, Google ATAP<br>
 **Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **Q&A, Live Demos, Panel**
 
