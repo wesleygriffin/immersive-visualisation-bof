@@ -18,7 +18,7 @@ ACM SIGGRAPH Theater
 **Theoretical Foundations for Scientific & Intelligence Exascale Visualization Analysis System**, James Money, Idaho National Laboratory<br>
 **Immersive Storytelling for Pervasive Product Design and Engineering**, Elizabeth Baron, Ford Motor Company<br>
 **Open-Source Tools for Immersive Visualization**, Bill Sherman, Indiana University<br>
-**DigitalFish at Google Spotlight Stories**, Juan Miguel de Joya, Google ATAP<br>
+**Leveraging Mobile and Web Technologies Empathic Computing**, Juan Miguel de Joya, DigitalFish at Google Spotlight Stories<br>
 **Visualization: Choosing Among Multiple Truths**, Kalina Borkiewicz, National Center for Supercomputing Applications<br>
 **Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
