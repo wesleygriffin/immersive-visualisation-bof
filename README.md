@@ -22,6 +22,7 @@ ACM SIGGRAPH Theater
 **Visualization: Choosing Among Multiple Truths**, Kalina Borkiewicz, National Center for Supercomputing Applications<br>
 **Watching Cement Cure: Using a CAVE to Advance Cement Metrology**, Wesley Griffin, NIST<br>
 **Expanded Perception and Interaction Centre (EPICentre) at the UNSW**, Tomasz Bednarz, CSIRO/Data61 and UNSW Art & Design, Australia<br>
+**Immersive Experiences at Virginia Tech**, Nicholas Polys, Virginia Tech<br>
 **Q&A, Live Demos, Panel**
 
 ### Organizers
