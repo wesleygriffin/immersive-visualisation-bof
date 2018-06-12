@@ -16,7 +16,7 @@ ACM Theater, Vancouver Convention Center
 **Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 Elizabeth Baron, Ford Motor Company<br>
 Mark Barry, USC<br>
-**Computational Standard Reference Materials***, Wesley Griffin, NIST<br>
+**Computational Standard Reference Materials**, Wesley Griffin, NIST<br>
 Tomasz Bednarz<br>
 **Q&A, Live Demos, Continued Discussion**
 
