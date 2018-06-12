@@ -6,12 +6,18 @@ order to share their ideas and work in an informal atmosphere.
 
 ### Time and Location
 
-TBA
+Monday, 13 August, 2018<br>
+09:00 - 11:00<br>
+ACM Theater, Vancouver Convention Center
 
 ### Tentative Schedule
 
 **Welcome and Introduction**, Wesley and Tomasz<br>
-**TBA**<br>
+**Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
+Elizabeth Baron, Ford Motor Company<br>
+Mark Barry, USC<br>
+**Computational Standard Reference Materials***, Wesley Griffin, NIST<br>
+Tomasz Bednarz<br>
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
