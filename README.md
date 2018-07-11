@@ -15,6 +15,7 @@ ACM Theater, Vancouver Convention Center
 **Welcome and Introduction**, Wesley and Tomasz<br>
 **Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 Elizabeth Baron, Ford Motor Company<br>
+**Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 Mark Barry, USC<br>
 **Computational Standard Reference Materials**, Wesley Griffin, NIST<br>
 Tomasz Bednarz<br>
