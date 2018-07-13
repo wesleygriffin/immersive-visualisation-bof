@@ -18,6 +18,7 @@ Elizabeth Baron, Ford Motor Company<br>
 **Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 Mark Barry, USC<br>
 **Computational Standard Reference Materials**, Wesley Griffin, NIST<br>
+Nicholas Polys, Virginia Tech<br>
 Tomasz Bednarz<br>
 **Q&A, Live Demos, Continued Discussion**
 
