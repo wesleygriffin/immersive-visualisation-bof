@@ -17,6 +17,7 @@ ACM Theater, Vancouver Convention Center
 Elizabeth Baron, Ford Motor Company<br>
 **Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 Mark Barry, USC<br>
+John Stone, UIUC<br> 
 **Computational Standard Reference Materials**, Wesley Griffin, NIST<br>
 Nicholas Polys, Virginia Tech<br>
 Tomasz Bednarz<br>
