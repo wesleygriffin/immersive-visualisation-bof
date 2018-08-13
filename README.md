@@ -14,11 +14,11 @@ ACM Theater, Vancouver Convention Center
 
 **Welcome and Introduction**, Wesley and Tomasz<br>
 **Feeling is Believing: Passive Haptics for Immersive Experience**, Elizabeth Baron, Ford Motor Company<br>
-**Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 **Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 **VMD: Immersive Molecular Visualization with High-Fidelity Ray Tracing**, John Stone, UIUC<br> 
 Nicholas Polys, Virginia Tech<br>
 Mark Barry, USC<br>
+**Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 **VR Cell Microscopy Visualization**, Wesley Griffin, NIST<br>
 Tomasz Bednarz<br>
 **Q&A, Live Demos, Continued Discussion**
