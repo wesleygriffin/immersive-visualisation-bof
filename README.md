@@ -13,13 +13,13 @@ ACM Theater, Vancouver Convention Center
 ### Tentative Schedule
 
 **Welcome and Introduction**, Wesley and Tomasz<br>
-**Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 Elizabeth Baron, Ford Motor Company<br>
+**Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 **Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 Mark Barry, USC<br>
 John Stone, UIUC<br> 
-**Computational Standard Reference Materials**, Wesley Griffin, NIST<br>
 Nicholas Polys, Virginia Tech<br>
+**VR Cell Microscopy Visualization**, Wesley Griffin, NIST<br>
 Tomasz Bednarz<br>
 **Q&A, Live Demos, Continued Discussion**
 
