@@ -19,7 +19,7 @@ ACM Theater, Vancouver Convention Center
 **Virginia Tech Visionarium Lab**, Nicholas Polys, Virginia Tech<br>
 **Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 **VR Cell Microscopy Visualization**, Wesley Griffin, NIST<br>
-**Visual Analytics on Steroids | SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
+**Visual Analytics | SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
