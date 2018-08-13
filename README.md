@@ -16,11 +16,10 @@ ACM Theater, Vancouver Convention Center
 **Feeling is Believing: Passive Haptics for Immersive Experience**, Elizabeth Baron, Ford Motor Company<br>
 **Public Access to Non-Public Spaces**, Sandy Ressler, NIST<br>
 **VMD: Immersive Molecular Visualization with High-Fidelity Ray Tracing**, John Stone, UIUC<br> 
-Nicholas Polys, Virginia Tech<br>
-Mark Barry, USC<br>
+**Virginia Tech Visionarium Lab**, Nicholas Polys, Virginia Tech<br>
 **Visualization in the Dome**, Kalina Borkiewicz and AJ Christensen, AVL NCSA<br>
 **VR Cell Microscopy Visualization**, Wesley Griffin, NIST<br>
-Tomasz Bednarz<br>
+**Visual Analytics on Steroids | SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
