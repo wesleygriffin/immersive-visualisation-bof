@@ -13,7 +13,8 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 ### Tentative Schedule
 
 **Welcome and Introduction**, Tomasz and Huyen<br>
-**Computer vision for fun and profit**, John Doolan, Virtual Immersive<br>
+**Computer Vision for Fun and Profit**, John Doolan, Virtual Immersive<br>
+**Immersvie Analytics of Honey Bee Data**, Huyen Nguyen, UNSW Art & Design<br>
 **TBC**, Jon Baginski, Tesla<br>
 **Visual Analytics | SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
 **Q&A, Live Demos, Continued Discussion**
