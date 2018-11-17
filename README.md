@@ -13,6 +13,8 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 ### Tentative Schedule
 
 **Welcome and Introduction**, Tomasz and Huyen<br>
+**Computer vision for fun and profit**, John Doolan, Virtual Immersive<br>
+**TBC**, Jon Baginski, Tesla<br>
 **Visual Analytics | SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
 **Q&A, Live Demos, Continued Discussion**
 
