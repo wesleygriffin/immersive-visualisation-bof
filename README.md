@@ -16,8 +16,10 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 **Computer Vision for Fun and Profit**, John Doolan, Virtual Immersive<br>
 **Immersvie Analytics of Honey Bee Data**, Huyen Nguyen, UNSW Art & Design<br>
 **Computer Graphics and VR at the University Lisboa**, Joaquim Jorge, Univ Lisboa Portugal<br>
+**From tech and art to business value - business/corporate/executive perspectives on immersive visualization**, Michael Hsin-Yao Liang, Silkroad Visual Technologies<br> 
 **Cinemagraphic Virtual Reality**, Jon Baginski, Tesla<br>
 **Immersive SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
+**Clanger: Artistic visualisation of Australian football player GPS data**, Baden Pailthorpe, Australian National University Art & Design<br>
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
