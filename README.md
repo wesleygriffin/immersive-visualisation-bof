@@ -20,7 +20,7 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 **Cinemagraphic Virtual Reality**, Jon Baginski, Tesla<br>
 **Immersive SIGGRAPH Asia 2019**, Tomasz Bednarz, SIGGRAPH Asia<br>
 **Clanger: Artistic visualisation of Australian football player GPS data**, Baden Pailthorpe, Australian National University Art & Design<br>
-**Data Chopin - Magic Way of Interacting with Data**, Daniel Filonik, CSIRO Data61 and UNSW
+**Data Chopin - Magic Way of Interacting with Data**, Daniel Filonik, CSIRO Data61 and UNSW<br>
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
