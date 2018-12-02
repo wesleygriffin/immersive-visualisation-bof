@@ -18,8 +18,9 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 **Computer Graphics and VR at the University Lisboa**, Joaquim Jorge, Univ Lisboa Portugal<br>
 **From tech and art to business value - business/corporate/executive perspectives on immersive visualization**, Michael Hsin-Yao Liang, Silkroad Visual Technologies<br> 
 **Cinemagraphic Virtual Reality**, Jon Baginski, Tesla<br>
-**Immersive SIGGRAPH Asia 2019**, Tomasz Bednarz, UNSW Art & Design, CSIRO Data61<br>
+**Immersive SIGGRAPH Asia 2019**, Tomasz Bednarz, SIGGRAPH Asia<br>
 **Clanger: Artistic visualisation of Australian football player GPS data**, Baden Pailthorpe, Australian National University Art & Design<br>
+**Data Chopin - Magic Way of Interacting with Data**, Daniel Filonik, CSIRO Data61 and UNSW
 **Q&A, Live Demos, Continued Discussion**
 
 ### Organizers
