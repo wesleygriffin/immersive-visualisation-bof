@@ -15,6 +15,7 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 **Welcome and Introduction**, Tomasz and Huyen<br>
 **Computer Vision for Fun and Profit**, John Doolan, Virtual Immersive<br>
 **Immersvie Analytics of Honey Bee Data**, Huyen Nguyen, UNSW Art & Design<br>
+**Holograms in My Hand: Building Immersive Data Visualizations**, Johanna Beyer, Harvard<br> 
 **Computer Graphics and VR at the University Lisboa**, Joaquim Jorge, Univ Lisboa Portugal<br>
 **From tech and art to business value - business/corporate/executive perspectives on immersive visualization**, Michael Hsin-Yao Liang, Silkroad Visual Technologies<br> 
 **Cinemagraphic Virtual Reality**, Jon Baginski, Tesla<br>
