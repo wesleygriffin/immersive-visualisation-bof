@@ -1,28 +1,18 @@
 We cordially invite you to participate in the Birds of a Feather session at
-SIGGRAPH Asia 2018 that focuses on immersive analytics, visual analytics and
+SIGGRAPH 2019 that focuses on immersive analytics, visual analytics and
 immersive visualisation systems for science, research, and art. The BoF will
 bring together scientific visualisation practitioners from across the globe in
 order to share their ideas and work in an informal atmosphere.
 
 ### Time and Location
 
-Tuesday, 4 December, 2018<br>
-12:15pm - 1:45pm<br>
-G409 (4F, Glass Building), SIGGRAPH Asia 2018
+Monday, 29 July, 2019<br>
+09:00 am - 11:00 am<br>
+SIGGRAPH Electronic Theater, SIGGRAPH 2019
 
 ### Tentative Schedule
 
-**Welcome and Introduction**, Tomasz and Huyen<br>
-**Computer Vision for Fun and Profit**, John Doolan, Virtual Immersive<br>
-**Immersvie Analytics of Honey Bee Data**, Huyen Nguyen, UNSW Art & Design<br>
-**Holograms in My Hand: Building Immersive Data Visualizations**, Johanna Beyer, Harvard<br> 
-**Computer Graphics and VR at the University Lisboa**, Joaquim Jorge, Univ Lisboa Portugal<br>
-**From tech and art to business value - business/corporate/executive perspectives on immersive visualization**, Michael Hsin-Yao Liang, Silkroad Visual Technologies<br> 
-**Cinemagraphic Virtual Reality**, Jon Baginski, Tesla<br>
-**Immersive SIGGRAPH Asia 2019**, Tomasz Bednarz, SIGGRAPH Asia<br>
-**Clanger: Artistic visualisation of Australian football player GPS data**, Baden Pailthorpe, Australian National University Art & Design<br>
-**Data Chopin - Magic Way of Interacting with Data**, Daniel Filonik, UNSW EPICentre<br>
-**Q&A, Live Demos, Continued Discussion**
+TBA
 
 ### Organizers
 
@@ -30,7 +20,8 @@ G409 (4F, Glass Building), SIGGRAPH Asia 2018
 **Huyen Nguyen** (UNSW Art & Design, Australia)
 
 For more information, please e-mail:<br>
-[tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org).
+[tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org) or<br>
+[wesley.griffin@nist.gov](mailto:wesley.griffin@nist.gov)
 
 ### Previous Years
 
@@ -38,4 +29,5 @@ For more information, please e-mail:<br>
 [2015](http://immersive-visualisation.blogspot.com/2015/)
 [2016](http://immersive-visualisation.blogspot.com/2016)
 [2017](/2017.html)
-[2018](/2018.html)
+[SIGGRAPH 2018](/2018.html)
+[SIGGRAPH Asia 2018](/sa2018.html)
