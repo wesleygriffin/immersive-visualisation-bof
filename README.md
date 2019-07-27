@@ -23,7 +23,7 @@ Room 505, SIGGRAPH 2019
 1:30 - 2:10 William R Sherman Indiana University
 2:10 - 2:50 Tim Dwyer Monash University
 2:50 - 3:30 Wesley Griffin NIST
-3:30 - 3:50 Fast Forward from Community / Audience
+3:30 - 3:50 Fast Forward from Community / Audience 
 3:50 - 5:00 Future of Immersive Visualization and Panel 
 
 ### Organizers
