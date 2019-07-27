@@ -6,13 +6,25 @@ order to share their ideas and work in an informal atmosphere.
 
 ### Time and Location
 
-Monday, 29 July, 2019<br>
-09:00 am - 11:00 am<br>
-SIGGRAPH Electronic Theater, SIGGRAPH 2019
+Sunday, 28 July, 2019<br>
+09:00 am - 5:00 pm<br>
+Room 505, SIGGRAPH 2019
 
 ### Tentative Schedule
 
-TBA
+9:00 - 9:10 Welcome, Introductions and Schedule
+9:10 - 9:50 Nicholas F Polys Virginia Tech
+9:50 - 10:30 Johanna Bayer Visual Computing Lab (VCG) at Harvard University
+10:30 - 11:00 Coffee/Tea Break
+11:00 - 11:40 John Stone Research Programmer University of Illinois at Urbana-Champaign
+11:40 - 12:20 Mohammad Soleymani USC Institute for Creative Technologies
+12:20 - 12:50 Tomasz Bednarz CSIRO's Data61 and UNSW Art & Design
+12:50 - 1:30 Lunch Break
+1:30 - 2:10 William R Sherman Indiana University
+2:10 - 2:50 Tim Dwyer Monash University
+2:50 - 3:30 Wesley Griffin NIST
+3:30 - 3:50 Fast Forward from Community / Audience
+3:50 - 5:00 Future of Immersive Visualization and Panel 
 
 ### Organizers
 
