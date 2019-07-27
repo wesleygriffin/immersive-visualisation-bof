@@ -16,8 +16,8 @@ TBA
 
 ### Organizers
 
-**Tomasz Bednarz** (CSIRO/Data61 and UNSW Art & Design, Australia)<br>
-**Huyen Nguyen** (UNSW Art & Design, Australia)
+**Tomasz Bednarz** (CSIRO Data61 and UNSW Art & Design, Australia)<br>
+**Wesley Griffin** (UNSW Art & Design, Australia)
 
 For more information, please e-mail:<br>
 [tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org) or<br>
