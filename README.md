@@ -1,4 +1,4 @@
-### ACM SIGGRAPH Frontier Workshop on Immersive Visualization 
+### ACM SIGGRAPH Frontiers Workshop on Immersive Visualization 
 
 This workshop focuses on Immersive (Hybrid) Analytics which is science of analytical reasoning facilitated by interactive visual interfaces, deployed through effective use of multi-modal XR systems. It is successfully applied to scientific visualization, to graphically illustrate and spatially interact with, enabling scientists to understand, explore and gain meaningful insights from their massive data, often outcomes of complex simulations or data captures. It presents novel opportunities to facilitate data exploration with a human-in-the-loop using combination of machine learning, high performance graphics and interactive visualizations, and combining the strengths of human intuition with the power of computing to enhance better decision making.
 
