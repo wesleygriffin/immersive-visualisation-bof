@@ -20,7 +20,7 @@ Room 505, SIGGRAPH 2019
 12:50 - 1:30 Lunch Break<br>
 1:30 - 2:10 **William R Sherman** Indiana University<br>
 2:10 - 2:50 **Tim Dwyer** Monash University<br>
-2:50 - 3:10 **Wesley Griffin** NIST<br>
+2:50 - 3:10 **Sandy Ressler** NIST<br>
 3:10 - 3:30 Break<br>
 3:30 - 3:55 Fast Forward from Community / Audience<br>
 3:55 - 5:00 Future of Immersive Visualization and Panel
