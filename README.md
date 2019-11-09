@@ -12,6 +12,18 @@ Mezzanie Meeting Room M5 & M6, SIGGRAPH Asia 2019
 
 **Sandy Ressler, NIST**, Introductory Remarks<br />
 
+**Conan Bourke, UNSW EPICentre**, Multimodal High-End Visualisation System<br />
+
+**AJ Christensen and Kalina Maria - National Center for Super Computer Applications (NCSA)**, Cinematic Visualization and Data<br />
+
+**Maxim Cordeil, Monash University**, Immersive Analytics<br />
+
+**Dr. Quang Vinh Nguyen, ICT School of Computing, Engineering & Mathematics, and MARCS Institute**, Interactive Visualization of Genomic Data in VR/Mixed Reality Environment<br />
+
+**Haifeng Shen annd Theo Wyeld, Australian Catholic University**,  & Theo Wyeld UNSW (title
+forthcoming)
+
+**Pradeep Khanna, Executive Director Asia Pacific Sydney VRAR association**, VR and AR Activities
 
 ### Organizer
 
