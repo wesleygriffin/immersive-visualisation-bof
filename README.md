@@ -1,4 +1,4 @@
-### ACM SIGGRAPH Frontiers Workshop on Immersive Visualization 
+### Immersive Visualisation BoF at SIGGRAPH Asia 2019 
 
 This workshop focuses on Immersive (Hybrid) Analytics which is science of analytical reasoning facilitated by interactive visual interfaces, deployed through effective use of multi-modal XR systems. It is successfully applied to scientific visualization, to graphically illustrate and spatially interact with, enabling scientists to understand, explore and gain meaningful insights from their massive data, often outcomes of complex simulations or data captures. It presents novel opportunities to facilitate data exploration with a human-in-the-loop using combination of machine learning, high performance graphics and interactive visualizations, and combining the strengths of human intuition with the power of computing to enhance better decision making.
 
@@ -36,9 +36,11 @@ For more information, please e-mail:<br>
 
 ### Previous Years
 
-[2014](http://immersive-visualisation.blogspot.com/2014)
-[2015](http://immersive-visualisation.blogspot.com/2015/)
-[2016](http://immersive-visualisation.blogspot.com/2016)
-[2017](/2017.html)
-[SIGGRAPH 2018](/2018.html)
-[SIGGRAPH Asia 2018](/sa2018.html)
+[S14](http://immersive-visualisation.blogspot.com/2014)
+[S15](http://immersive-visualisation.blogspot.com/2015/)
+[S16](http://immersive-visualisation.blogspot.com/2016)
+[S17](/2017.html)
+[S18](/2018.html)
+[SA18](/sa2018.html)
+[S19](/2019.html)
+
