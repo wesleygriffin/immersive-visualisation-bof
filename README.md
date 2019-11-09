@@ -30,8 +30,7 @@ Mezzanie Meeting Room M5 & M6, SIGGRAPH Asia 2019
 
 **Sandy Ressler** (NIST, USA)
 
-For more information, please e-mail:<br>
-[sressler@acm.org](mailto:sressler@acm.org)
+For more information, please e-mail: [sressler@acm.org](mailto:sressler@acm.org)
 
 ### Previous Years
 
