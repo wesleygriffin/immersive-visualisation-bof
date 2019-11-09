@@ -1,14 +1,15 @@
-### Immersive Visualisation BoF at SIGGRAPH Asia 2019 
+### Immersive Analytics BoF at SIGGRAPH Asia 2019 
 
-This workshop focuses on Immersive (Hybrid) Analytics which is science of analytical reasoning facilitated by interactive visual interfaces, deployed through effective use of multi-modal XR systems. It is successfully applied to scientific visualization, to graphically illustrate and spatially interact with, enabling scientists to understand, explore and gain meaningful insights from their massive data, often outcomes of complex simulations or data captures. It presents novel opportunities to facilitate data exploration with a human-in-the-loop using combination of machine learning, high performance graphics and interactive visualizations, and combining the strengths of human intuition with the power of computing to enhance better decision making.
+This BOF focuses on Immersive Analytics which is the science of analytical reasoning facilitated by interactive visual interfaces, deployed through effective use of immersive systems including desktop VR and WebVR. The goals applied to scientific visualization enable scientists to understand, explore and gain meaningful insights from their massive data, often outcomes of complex simulations or data captures. It presents novel opportunities to facilitate data exploration with a human-in-the-loop using combination of machine learning, high performance graphics and interactive visualizations, and combining the strengths of human intuition with the power of computing to enhance better decision making.
 
 ### Time and Location
 
-Sunday, 28 July, 2019<br>
-09:00 am - 5:00 pm<br>
-Room 505, SIGGRAPH 2019
+Monday, 18 November, 2019<br>
+11:00 am - 12:45 pm<br>
+Mezzanie Meeting Room M5 & M6, SIGGRAPH Asia 2019
 
 ### Tentative Schedule
+
 
 9:00 - 9:10 Welcome, Introductions and Schedule<br>
 9:10 - 9:50 **Nicholas F Polys** Virginia Tech<br>
@@ -25,14 +26,12 @@ Room 505, SIGGRAPH 2019
 3:30 - 3:55 Fast Forward from Community / Audience<br>
 3:55 - 5:00 Future of Immersive Visualization and Panel
 
-### Organizers
+### Organizer
 
-**Tomasz Bednarz** (CSIRO Data61 and UNSW Art & Design, Australia)<br>
-**Wesley Griffin** (NIST, USA)
+**Sandy Ressler** (NIST, USA)
 
 For more information, please e-mail:<br>
-[tomasz.bednarz@siggraph.org](mailto:tomasz.bednard@siggraph.org) or<br>
-[wesley.griffin@nist.gov](mailto:wesley.griffin@nist.gov)
+[sressler@acm.org](mailto:sressler@acm.org)
 
 ### Previous Years
 
