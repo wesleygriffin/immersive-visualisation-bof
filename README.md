@@ -24,6 +24,8 @@ Mezzanie Meeting Room M5 & M6, SIGGRAPH Asia 2019
 
 **Pradeep Khanna, Executive Director Asia Pacific Sydney VRAR association**, VR and AR Activities
 
+**Kevin Griffin (Lawrence Livermore Naitonal Labs)**, Scientific Visualization and Data Analysis Using VisIt
+
 ### Organizer
 
 **Sandy Ressler** (NIST, USA)
