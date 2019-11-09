@@ -20,8 +20,7 @@ Mezzanie Meeting Room M5 & M6, SIGGRAPH Asia 2019
 
 **Dr. Quang Vinh Nguyen, ICT School of Computing, Engineering & Mathematics, and MARCS Institute**, Interactive Visualization of Genomic Data in VR/Mixed Reality Environment<br />
 
-**Haifeng Shen annd Theo Wyeld, Australian Catholic University**,  & Theo Wyeld UNSW (title
-forthcoming)
+**Haifeng Shen annd Theo Wyeld, Australian Catholic University**, Video streaming ML training from the Unity3D game engine - why would you?<br />
 
 **Pradeep Khanna, Executive Director Asia Pacific Sydney VRAR association**, VR and AR Activities
 
