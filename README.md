@@ -14,12 +14,11 @@ Tuesday, 10 August, 2021<br>
 **Welcome and Introductions**, Tomasz and Bill<br>
 **Immersive Visualization of MRI Data for Surgical Planning**, Jurgen Schulze (Associate Adjunct Professor, Department of Computer Science, UC San Diego)<br>
 **Mixing Realities: Leveraging Augmented Reality to Support Remote Collaboration in Educational Scenarios and Demonstrate the Physical Nature of Digital Information**, Max Collins, PhD (University of California, Irvine)<br>
-**Virtual Reality Archaeology project**, Cam Merrill (niversity of Illinois, Urbana-Champaign)<br>
+**Virtual Reality Archaeology project**, Cam Merrill (University of Illinois, Urbana-Champaign)<br>
 **Immersive Visualization in ParaView**, Ken Martin (Distinguished Engineer, Kitware Inc.)<br>
-Emma-Jane Alexander (Shell 3D Visualization Manager, Energy Innovation 
-Center, University of Wyoming)<br>
-Carolina Cruz-Neira (Agere Chair Professor, University of Central Florida)<br>
-Stuart Levy (National Center for Supercomputing Applications)<br>
+**Insight into how UW is using VR and immersive technology for teaching, research and enterpreurial activity**, Emma-Jane Alexander (Shell 3D Visualization Manager, Energy Innovation Center, University of Wyoming)<br>
+**Interaction and Immersion**, Carolina Cruz-Neira (Agere Chair Professor, University of Central Florida)<br>
+**Atlas of a Changing Earth planetarium show**, Stuart Levy (National Center for Supercomputing Applications)<br>
 **Q&A, Discussion**
 
 ### Organizers
