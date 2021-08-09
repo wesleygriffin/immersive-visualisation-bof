@@ -17,7 +17,7 @@ Tuesday, 10 August, 2021<br>
 **Virtual Reality Archaeology project**, Cam Merrill (University of Illinois, Urbana-Champaign)<br>
 **Immersive Visualization in ParaView**, Ken Martin (Distinguished Engineer, Kitware Inc.)<br>
 **Insight into how UW is using VR and immersive technology for teaching, research and enterpreurial activity**, Emma-Jane Alexander (Shell 3D Visualization Manager, Energy Innovation Center, University of Wyoming)<br>
-**Interaction and Immersion**, Carolina Cruz-Neira (Agere Chair Professor, University of Central Florida)<br>
+**Immersvie Analytics**, Dirk Reiners (University of Central Florida)<br>
 **Atlas of a Changing Earth planetarium show**, Stuart Levy (National Center for Supercomputing Applications)<br>
 **Q&A, Discussion**
 
