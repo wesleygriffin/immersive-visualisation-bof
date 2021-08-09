@@ -18,7 +18,7 @@ Tuesday, 10 August, 2021<br>
 **Immersive Visualization in ParaView**, Ken Martin (Distinguished Engineer, Kitware Inc.)<br>
 **Insight into how UW is using VR and immersive technology for teaching, research and enterpreurial activity**, Emma-Jane Alexander (Shell 3D Visualization Manager, Energy Innovation Center, University of Wyoming)<br>
 **Immersvie Analytics**, Dirk Reiners (University of Central Florida)<br>
-**Atlas of a Changing Earth planetarium show**, Stuart Levy (National Center for Supercomputing Applications)<br>
+**Mapping Topography and Temperature in "Atlas of a Changing Earth"**, Stuart Levy (National Center for Supercomputing Applications)<br>
 **Q&A, Discussion**
 
 ### Organizers
