@@ -12,11 +12,11 @@ Thursday, 28 July, 2022<br>
 
 **Welcome and Introductions**, Tomasz and Bill<br>
 **Empathic Computing**, Mark Billinghust (University of South Australia & Auckland University)<br>
-**Immmersive Visualization at NIST**, William Sherman (NIST)<br>
-**NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
 **TBA**, Oliver Kreylos (UC Davis)<br>
+**NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
 **TBA**, Nicholas Polys (Virginia Tech)<br>
 **TBA**, Harris James Zachariah (Sandia National Laboratories)<br>
+**Immmersive Visualization at NIST**, William Sherman (NIST)<br>
 **Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
 **Q&A, Discussion**
 
