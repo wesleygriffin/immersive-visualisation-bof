@@ -3,29 +3,29 @@ order to share their ideas and work in an informal atmosphere.
 
 ### Time and Location
 
-Thursday, 28 July, 2022<br />
-3pm - 4:30pm PDT<br />
+Thursday, 28 July, 2022<br>
+3pm - 4:30pm PDT<br>
 
 [SIGGRAPH 2022 Link](https://s2022.siggraph.org/presentation/?id=bof_128&sess=sess328)
 
 ### Tentative Schedule
 
 **Welcome and Introductions**, Tomasz and Bill<br>
-**Empathic Computing**, Mark Billinghust (University of South Australia & Auckland University)<br />
-**Immmersive Visualization at NIST**, William Sherman (NIST)<br />
-**NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br />
-**TBA**, Oliver Kreylos (UC Davis)<br />
-**TBA**, Harris James Zachariah (Sandia National Laboratories)<br />
-**Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br />
+**Empathic Computing**, Mark Billinghust (University of South Australia & Auckland University)<br>
+**Immmersive Visualization at NIST**, William Sherman (NIST)<br>
+**NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
+**TBA**, Oliver Kreylos (UC Davis)<br>
+**TBA**, Harris James Zachariah (Sandia National Laboratories)<br>
+**Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
 **Q&A, Discussion**
 
 ### Organizers
 
-**Tomasz Bednarz** (NVIDIA Corporation, Australia)<br />
+**Tomasz Bednarz** (NVIDIA Corporation, Australia)<br>
 **Bill Sherman** (NIST, USA)
 
 For more information, please e-mail:<br>
-[tomasz.bednarz@siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br />
+[tomasz.bednarz@siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
 [william.sherman@nist.gov](mailto:william.sherman@nist.gov).
 
 ### Previous Years
