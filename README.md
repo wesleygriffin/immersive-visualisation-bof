@@ -15,6 +15,7 @@ Thursday, 28 July, 2022<br>
 **Immmersive Visualization at NIST**, William Sherman (NIST)<br>
 **NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
 **TBA**, Oliver Kreylos (UC Davis)<br>
+**TBA**, Nicholas Polys (Virginia Tech)<br>
 **TBA**, Harris James Zachariah (Sandia National Laboratories)<br>
 **Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
 **Q&A, Discussion**
