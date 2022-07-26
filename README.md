@@ -12,11 +12,11 @@ Thursday, 28 July, 2022<br>
 
 **Welcome and Introductions**, Tomasz and Bill<br>
 **Empathic Computing**, Mark Billinghust (University of South Australia & Auckland University)<br>
-**TBA**, Oliver Kreylos (UC Davis)<br>
+**Working with Scientific and Engineering Data in CAD2VR, Virtual Volumes, and Crystal VR**, John Krukar and Zach Harris (Sandia National Labs)<br>
 **NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
+**TBA**, Oliver Kreylos (UC Davis)<br>
 **TBA**, Nicholas Polys (Virginia Tech)<br>
-**TBA**, Harris James Zachariah (Sandia National Laboratories)<br>
-**Immmersive Visualization at NIST**, William Sherman (NIST)<br>
+**Open-source and standards-based immersive visualization**, Bill Sherman (NIST)<br>
 **Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
 **Q&A, Discussion**
 
