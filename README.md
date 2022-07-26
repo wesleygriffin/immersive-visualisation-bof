@@ -6,6 +6,8 @@ order to share their ideas and work in an informal atmosphere.
 Thursday, 28 July, 2022<br>
 3pm - 4:30pm PDT<br>
 
+[SIGGRAPH 2022 Link](https://s2022.siggraph.org/presentation/?id=bof_128&sess=sess328)
+
 ### Tentative Schedule
 
 **Welcome and Introductions**, Tomasz and Bill<br>
