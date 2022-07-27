@@ -11,7 +11,7 @@ Thursday, 28 July, 2022<br>
 ### Tentative Schedule
 
 **Welcome and Introductions**, Tomasz and Bill<br>
-**Empathic Computing**, Mark Billinghust (University of South Australia & Auckland University)<br>
+**Empathic Computing**, Mark Billinghust (University of South Australia & University of Auckland)<br>
 **Working with Scientific and Engineering Data in CAD2VR, Virtual Volumes, and Crystal VR**, John Krukar and Zach Harris (Sandia National Labs)<br>
 **NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
 **TBA**, Oliver Kreylos (UC Davis)<br>
