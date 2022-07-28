@@ -14,7 +14,7 @@ Thursday, 28 July, 2022<br>
 **Empathic Computing**, Mark Billinghust (University of South Australia & University of Auckland)<br>
 **Working with Scientific and Engineering Data in CAD2VR, Virtual Volumes, and Crystal VR**, John Krukar and Zach Harris (Sandia National Labs)<br>
 **NVIDIA Omniverse**, Paul Cutsinger (NVIDIA Corporation)<br>
-**TBA**, Oliver Kreylos (UC Davis)<br>
+**From CAVE to Vive: Challanges and opportunities of VR commodification for visualization facilities**, Oliver Kreylos (UC Davis)<br>
 **Applications of Immersion at Virginia Tech: 2022 SIGGRAPH Update**, Nicholas Polys (Virginia Tech)<br>
 **Open-source and standards-based immersive visualization**, Bill Sherman (NIST)<br>
 **Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
