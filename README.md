@@ -17,7 +17,7 @@ Thursday, 28 July, 2022<br>
 **From CAVE to Vive: Challanges and opportunities of VR commodification for visualization facilities**, Oliver Kreylos (UC Davis)<br>
 **Applications of Immersion at Virginia Tech: 2022 SIGGRAPH Update**, Nicholas Polys (Virginia Tech)<br>
 **Open-source and standards-based immersive visualization**, Bill Sherman (NIST)<br>
-**Physics ML for Digital Twins XR**, Tomasz Bednarz (NVIDIA Corporation)<br>
+**Physics ML for Digital Twins (NV Modulus)**, Tomasz Bednarz (NVIDIA Corporation)<br>
 **Q&A, Discussion**
 
 ### Organizers
