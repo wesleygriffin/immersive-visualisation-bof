@@ -10,8 +10,9 @@ Location: Room 321, Level 3, West Wing
 [SIGGRAPH Asia 2022 Link](https://sa2022.siggraph.org/en/presentation/?id=bof_103&sess=sess263)
 
 ### Tentative Schedule
-...
-**Welcome and Introductions**, Tomasz and Pallavi<br>
+**Welcome and Introductions**, Tomasz and Pallavi<br />
+...<br />
+...<br />
 **Q&A, Discussion**
 
 ### Organizers
@@ -20,8 +21,8 @@ Location: Room 321, Level 3, West Wing
 **Pallavi Mohan** (NVIDIA Corporation, Singapore)
 
 For more information, please e-mail:<br>
-[tomasz.bednarz@siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
-[william.sherman@nist.gov](mailto:pamohan@nvidia.com).
+[tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
+[pamohan at nvidia.com](mailto:pamohan@nvidia.com).
 
 ### Previous Years
 
