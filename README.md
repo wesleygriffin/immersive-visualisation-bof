@@ -11,9 +11,9 @@ Location: Room 321, Level 3, West Wing
 
 ### Tentative Schedule
 **Welcome and Introductions**, Tomasz and Pallavi<br />
-...<br />
-...<br />
-**Q&A, Discussion**
+Pallavi Mohan<br />
+Mark Billinghurst<br />
+**Panel, Q&A, Open Discussion**
 
 ### Organizers
 
