@@ -12,7 +12,8 @@ Location: Room 321, Level 3, West Wing
 ### Tentative Schedule
 **Welcome and Introductions**, Tomasz and Pallavi<br />
 Pallavi Mohan<br />
-Mark Billinghurst<br />
+Mark Billinghurst, Empathic Computing - Delivering the Whole Metaverse<br />
+Michela Ledwidge, Grapho - Spatial Storytelling with Graph Data<br />
 **Panel, Q&A, Open Discussion**
 
 ### Organizers
