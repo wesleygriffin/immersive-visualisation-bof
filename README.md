@@ -15,7 +15,7 @@ Mark Billinghurst, Empathic Computing - Delivering the Whole Metaverse<br />
 Michela Ledwidge, Grapho - Spatial Storytelling with Graph Data<br />
 Eugenia Cheskidova, Stylized personal 3D avatars in virtual worlds<br />
 Taehyun Rhee, Televerse<br />
-AJ Christansen, Scientific Visualization at NASA<br />
+AJ Christensen, Scientific Visualization at NASA<br />
 Pallavi Mohan, Creating Interactive and Collaborative Virtual Worlds<br />
 **Panel, Q&A, Open Discussion**
 
