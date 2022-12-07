@@ -14,6 +14,8 @@ Location: Room 321, Level 3, West Wing
 Mark Billinghurst, Empathic Computing - Delivering the Whole Metaverse<br />
 Michela Ledwidge, Grapho - Spatial Storytelling with Graph Data<br />
 Eugenia Cheskidova, Title of talk TBC<br />
+Taehyun Rhee, Televerse<br />
+AJ Christansen, Scientific Visualization at NASA<br />
 Pallavi Mohan, Creating Interactive and Collaborative Virtual Worlds<br />
 **Panel, Q&A, Open Discussion**
 
