@@ -1,32 +1,29 @@
-Traditionally, this session is on immersive visualization systems for science, research, scientific visualization, information visualization, art and science and also metaverse. Invited speakers and panel discuss newest initiatives and developments in immersive space.
+Traditionally, this session is on immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art and also metaverse. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration.
 
 ### Time and Location
 
-Thursday, 8 December, 2022<br>
-9am - 10am KST<br>
+Sunday, 6 August, 2023<br>
+8am - 9:30am PDT<br>
 
-Location: Room 321, Level 3, West Wing
+Location: TBC
 
-[SIGGRAPH Asia 2022 Link](https://sa2022.siggraph.org/en/presentation/?id=bof_103&sess=sess263)
+Interest Areas: Art and Design, Gaming and Interactive, New Technologies, Research and Education
+
+[SIGGRAPH 2023 BoF Link](https://s2023.siggraph.org/presentation/?id=bof_105&sess=sess187)
 
 ### Tentative Schedule
-**Welcome and Introductions**, Tomasz and Pallavi<br />
-Mark Billinghurst, Empathic Computing - Delivering the Whole Metaverse<br />
-Michela Ledwidge, Grapho - Spatial Storytelling with Graph Data<br />
-Eugenia Cheskidova, Stylized personal 3D avatars in virtual worlds<br />
-Taehyun Rhee, Televerse<br />
-AJ Christensen, Scientific Visualization at NASA<br />
-Pallavi Mohan, Creating Interactive and Collaborative Virtual Worlds<br />
+**Welcome and Introductions**, Tomasz and Bill<br />
+Invited Speakers, TBC
 **Panel, Q&A, Open Discussion**
 
 ### Organizers
 
-**Tomasz Bednarz** (NVIDIA Corporation, Australia)<br>
-**Pallavi Mohan** (NVIDIA Corporation, Singapore)
+**Tomasz Bednarz** (NVIDIA, USA)<br>
+**William Sherman** (NIST, USA)
 
 For more information, please e-mail:<br>
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
-[pamohan at nvidia.com](mailto:pamohan@nvidia.com).
+[bill at nvidia.com](mailto:william.sherman@nist.gov).
 
 ### Previous Years
 
@@ -39,3 +36,4 @@ For more information, please e-mail:<br>
 [SA19](/sa2019.html)
 [S2021](/s2021.html)
 [S2022](/s2022.html)
+[SA2023](/sa2022.html)
