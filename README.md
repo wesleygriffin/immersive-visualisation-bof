@@ -7,7 +7,7 @@ Sunday, 6 August, 2023<br>
 
 Location: Room 518 B
 
-Interest Areas: Art and Design, Gaming and Interactive, New Technologies, Research and Education
+Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
 [SIGGRAPH 2023 BoF Link](https://s2023.siggraph.org/presentation/?id=bof_105&sess=sess187)
 
