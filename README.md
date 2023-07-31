@@ -5,7 +5,7 @@ Traditionally, this session is on immersive visualization systems, software, and
 Sunday, 6 August, 2023<br>
 8am - 9:30am PDT<br>
 
-Location: TBC
+Location: Room 518 B
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, Research and Education
 
