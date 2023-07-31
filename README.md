@@ -30,7 +30,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 For more information, please e-mail:<br>
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
-[bill at nvidia.com](mailto:william.sherman@nist.gov).
+[bill at nist.gov](mailto:william.sherman@nist.gov).
 
 ### Previous Years
 
