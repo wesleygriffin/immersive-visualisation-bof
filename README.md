@@ -12,10 +12,14 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, Resear
 [SIGGRAPH 2023 BoF Link](https://s2023.siggraph.org/presentation/?id=bof_105&sess=sess187)
 
 ### Tentative Schedule
-**Welcome and Introductions**, Tomasz<br>
-Invited Speakers, TBC<br>
+**Welcome to BoF**, Tomasz Bednarz<br>
+**Breaking Boundaries: OpenUSD, AI and Evolution of Visualizing Physical Worlds**, Stephanie Rubenstein (NVIDIA)<br>
+**Presentation**, William Sherman (NIST)<br>
+**From Vision to Reality: Crafting an Immersive SciViz Experience for the 2023 Electronic Theater Pre-Show**, Kalina Borkiewicz (SIGGRAPH 2023)<br>
+**Immersion in the Metaverse:Solving problems for design, engineering and manufacturing**, Elizabeth Baron<br>
+**NASA's Earth Information Center**, AJ Christensen and Kel Elkins (NASA)<br>
 **Panel, Q&A, Open Discussion**<br>
-**Closing**, Bill
+**Closing and next steps**, William Sherman
 
 ### Organizers
 
