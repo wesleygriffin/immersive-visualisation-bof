@@ -12,13 +12,14 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, Resear
 [SIGGRAPH 2023 BoF Link](https://s2023.siggraph.org/presentation/?id=bof_105&sess=sess187)
 
 ### Tentative Schedule
-**Welcome and Introductions**, Tomasz and Bill<br />
-Invited Speakers, TBC
-**Panel, Q&A, Open Discussion**
+**Welcome and Introductions**, Tomasz<br />
+Invited Speakers, TBC<br />
+**Panel, Q&A, Open Discussion**<br />
+**Closing**, Bill
 
 ### Organizers
 
-**Tomasz Bednarz** (NVIDIA, USA)<br>
+**Tomasz Bednarz** (NVIDIA, USA)<br />
 **William Sherman** (NIST, USA)
 
 For more information, please e-mail:<br>
