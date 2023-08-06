@@ -15,7 +15,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Welcome to BoF**, Tomasz Bednarz<br>
 **Breaking Boundaries: OpenUSD, AI and Evolution of Visualizing Physical Worlds**, Stephanie Rubenstein (NVIDIA)<br>
 **ParaView and VTK interfaces for Immersive Visualization**, William Sherman (NIST)<br>
-**From Vision to Reality: Crafting an Immersive SciViz Experience for the 2023 Electronic Theater Pre-Show**, Kalina Borkiewicz (SIGGRAPH 2023)<br>
+**From Vision to Reality: Crafting an Immersive SciViz Experience for the 2023 Electronic Theater Pre-Show**, Kalina Borkiewicz, Dawn Fidrick, Bradley Thompson (SIGGRAPH 2023)<br>
 **Immersive Visualization for Enhanced Insights and Engagement**, Rajiv Khadka (Idaho National Laboratory)<br>
 **Immersion in the Metaverse:Solving problems for design, engineering and manufacturing**, Elizabeth Baron<br>
 **NASA's Earth Information Center**, AJ Christensen and Kel Elkins (NASA)<br>
