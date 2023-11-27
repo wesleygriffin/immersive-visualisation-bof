@@ -2,35 +2,27 @@ Traditionally, this session is on immersive visualization systems, software, and
 
 ### Time and Location
 
-Sunday, 6 August, 2023<br>
-8am - 9:30am PDT<br>
+Tuesday, 12 December, 2023<br>
+1pm - 1:50pm AEDT<br>
 
-Location: Room 518 B
+Location: Meeting Room C4.6, Level 4 (Convention Centre)
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
-[SIGGRAPH 2023 BoF Link](https://s2023.siggraph.org/presentation/?id=bof_105&sess=sess187)
+[SIGGRAPH Asia 2023 BoF Link](https://asia.siggraph.org/2023/presentation/?id=bof_112&sess=sess243)
 
 ### Tentative Schedule
-**Welcome to BoF**, Tomasz Bednarz<br>
-**Breaking Boundaries: OpenUSD, AI and Evolution of Visualizing Physical Worlds**, Stephanie Rubenstein (NVIDIA)<br>
-**ParaView and VTK interfaces for Immersive Visualization**, William Sherman (NIST)<br>
-**From Vision to Reality: Crafting an Immersive SciViz Experience for the 2023 Electronic Theater Pre-Show**, Kalina Borkiewicz, Dawn Fidrick, Bradley Thompson (SIGGRAPH 2023)<br>
-**Immersive Visualization for Enhanced Insights and Engagement**, Rajiv Khadka (Idaho National Laboratory)<br>
-**Immersion in the Metaverse:Solving problems for design, engineering and manufacturing**, Elizabeth Baron<br>
-**NASA's Earth Information Center**, AJ Christensen and Kel Elkins (NASA)<br>
-**Display Systems for Immersive Visualization**, Thomas Wischgoll (Wright State University)<br>
+**Welcome to BoF**, Tomasz and Elizabeth<br>
 **Panel and Open Discussion**<br>
-**Closing and next steps**, William Sherman
+**Closing and next steps**, Tomasz
 
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br>
-**William Sherman** (NIST, USA)
+**Elizabeth Baron** (Unity, USA)
 
 For more information, please e-mail:<br>
-[tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org) or<br>
-[bill at nist.gov](mailto:william.sherman@nist.gov).
+[tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
 
 ### Previous Years
 
@@ -44,3 +36,4 @@ For more information, please e-mail:<br>
 [S2021](/s2021.html)
 [S2022](/s2022.html)
 [SA2022](/sa2022.html)
+[S2023](/s2023.html)
