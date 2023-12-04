@@ -13,7 +13,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz and Elizabeth<br />
-**Generative AI for 3D Content and Scene Composition**, Pallavi Mohan<br />
+**Generative AI for 3D Content and Scene Composition**, Pallavi Mohan (NVIDIA)<br />
 **Panel and Open Discussion**<br />
 **Closing and next steps**, Tomasz
 
