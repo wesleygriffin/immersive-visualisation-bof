@@ -12,16 +12,17 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 [SIGGRAPH Asia 2023 BoF Link](https://asia.siggraph.org/2023/presentation/?id=bof_112&sess=sess243)
 
 ### Tentative Schedule
-**Welcome to BoF**, Tomasz and Elizabeth<br>
-**Panel and Open Discussion**<br>
+**Welcome to BoF**, Tomasz and Elizabeth<br />
+**Generative AI for 3D Content and Scene Composition**, Pallavi Mohan<br />
+**Panel and Open Discussion**<br />
 **Closing and next steps**, Tomasz
 
 ### Organizers
 
-**Tomasz Bednarz** (NVIDIA, USA)<br>
+**Tomasz Bednarz** (NVIDIA, USA)<br />
 **Elizabeth Baron** (Unity, USA)
 
-For more information, please e-mail:<br>
+For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
 
 ### Previous Years
