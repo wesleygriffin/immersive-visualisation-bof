@@ -24,7 +24,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
-**Elizabeth Baron** (Unity, USA)
+**Elizabeth Baron** (Immersionary Enterprises, USA)
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
