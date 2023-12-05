@@ -17,6 +17,7 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **The Most Interesting Thing in Space is Earth**, AJ Christensen (NASA)<br />
 **Generative AI for 3D Content and Scene Composition**, Pallavi Mohan (NVIDIA)<br />
 **Visualising Power Networks**, Mashhuda Glencross (UQ)<br />
+**Data Materialization**, Courtney Starrett (Texas A&M University)<br />
 **Panel and Open Discussion**<br />
 **Closing and next steps**, Tomasz
 
