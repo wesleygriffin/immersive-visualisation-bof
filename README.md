@@ -1,31 +1,23 @@
-Traditionally, this session is on immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art and also metaverse. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration.
+Traditionally (as for the last 10 years), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific disoveries, and more.
 
 ### Time and Location
 
-Tuesday, 12 December, 2023<br>
-1pm - 1:50pm AEDT<br>
+Thursday, 1 August 2024<br />
+8:00am - 9:00am MDT<br />
 
-Location: Meeting Room C4.6, Level 4 (Convention Centre)
+Location: Room 708-710 (Convention Centre)
 
 Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR, Research and Education
 
-[SIGGRAPH Asia 2023 BoF Link](https://asia.siggraph.org/2023/presentation/?id=bof_112&sess=sess243)
+[SIGGRAPH 2024 BoF Link](https://s2024.conference-program.org/presentation/?id=bof_107&sess=sess241)
 
 ### Tentative Schedule
-**Welcome to BoF**, Tomasz and Elizabeth<br />
-**Collaborative Immersive Analytics; Update from IVE**, Mark Billinghurst (University of South Australia)<br />
-**The Most Interesting Thing in Space is Earth**, AJ Christensen (NASA)<br />
-**Generative AI for 3D Content and Scene Composition**, Pallavi Mohan (NVIDIA)<br />
-**Visualising Power Networks**, Mashhuda Glencross (UQ)<br />
-**Data Materialization**, Courtney Starrett (Texas A&M University)<br />
-**AI and VR in Medicine: A New Perspective on Chest X-Rays and Colonography Through Eye-Tracking**, Joaquim Jorge (University of Lisboa)<br />
-**Panel and Open Discussion**<br />
-**Closing and next steps**, Tomasz
-
+**Welcome to BoF**, Tomasz and Bill<br />
+ 
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
-**Elizabeth Baron** (Immersionary Enterprises, USA)
+**William Sherman** (NIST, USA)<br />
 
 For more information, please e-mail:<br />
 [tomasz.bednarz at siggraph.org](mailto:tomasz.bednarz@siggraph.org)
@@ -43,3 +35,4 @@ For more information, please e-mail:<br />
 [S2022](/s2022.html)
 [SA2022](/sa2022.html)
 [S2023](/s2023.html)
+[SA2023](/sa2023.html)
