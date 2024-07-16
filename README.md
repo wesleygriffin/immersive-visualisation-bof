@@ -13,7 +13,13 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 
 ### Tentative Schedule
 **Welcome to BoF**, Tomasz and Bill<br />
- 
+**Everything is a Sphere! Fun with Re-projecting Data**, AJ Christensen (NASA)<br />
+**The value of intelligent immersion, from automotive to medical**, Elizabeth Baron (University of Nebraska Medical Center)<br />
+Kenny Gruchalla (NREL)<br />
+Jim Fan (NVIDIA)<br />
+Kyle Summerfield (U of Wyoming)<br />
+**Immersive Visualization for Public Safety**, Matthew Whitlock (NIST Boulder)<br />
+
 ### Organizers
 
 **Tomasz Bednarz** (NVIDIA, USA)<br />
