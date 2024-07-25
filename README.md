@@ -15,9 +15,9 @@ Interest Areas: Art and Design, Gaming and Interactive, New Technologies, VR/XR,
 **Welcome to BoF**, Tomasz and Bill<br />
 **Everything is a Sphere! Fun with Re-projecting Data**, AJ Christensen (NASA)<br />
 **The value of intelligent immersion, from automotive to medical**, Elizabeth Baron (University of Nebraska Medical Center)<br />
-Kenny Gruchalla (NREL)<br />
+**Immersive Visualization for Scientific Data Analysis**, Kenny Gruchalla (NREL)<br />
 **GR00T**, Jim Fan (NVIDIA)<br />
-Kyle Summerfield (U of Wyoming)<br />
+**Wide Gamut - Visualization Across Disciplines and Institutions**, Kyle Summerfield (U of Wyoming)<br />
 **Immersive Visualization for Public Safety**, Matthew Whitlock (NIST Boulder)<br />
 
 ### Organizers
