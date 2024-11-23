@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; URL=http://vis-bof.matters.today" />
+<meta http-equiv="refresh" content="5; url=https://vis-bof.matters.today" />
 
 Traditionally (as for the last 10 years), this session is about immersive visualization systems, software, and tools for science, research, scientific visualization, information visualization, art, design and digital twins. Invited speakers and panelists discuss newest initiatives and developments in immersive space as applied to data exploration, scientific disoveries, and more.
 
